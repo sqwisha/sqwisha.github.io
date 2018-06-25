@@ -1,6 +1,7 @@
 body {
 	background: #3b4759 url("Space-Back.jpg") no-repeat fixed center;
-	background-size: cover;
+	height: 300;
+	width: cover;
 	}
 
 h1
